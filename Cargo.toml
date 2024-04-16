@@ -4,6 +4,7 @@ version = "1.0.0"
 edition = "2021"
 license = "MIT"
 build = "src/build.rs"
+authors = [ "Sabrina Andersen (NukingDragons)", "numonce" ]
 
 [[bin]]
 name = "runner"
